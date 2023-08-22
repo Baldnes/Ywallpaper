@@ -1,0 +1,1 @@
+import{_ as e}from"./index.5d6809df.js";import{o as r,c as o}from"./vendor.5c522d5e.js";const c={},t={class:"error"};function s(n,_){return r(),o("div",t,"404 \u5F88\u62B1\u6B49\uFF0C\u4F60\u8BBF\u95EE\u7684\u9875\u9762\u627E\u4E0D\u5230\u4E86")}var i=e(c,[["render",s]]);export{i as default};
